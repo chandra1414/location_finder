@@ -10,7 +10,7 @@ To get this application up and running, ensure you have the following:
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/chandra1414/location_finder.git
-cd live-location-tracker
+cd live-location-tracker-master
 ```
 
 2. **Install dependencies**:
